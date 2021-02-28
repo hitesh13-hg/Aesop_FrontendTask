@@ -1,0 +1,32 @@
+.mainsec{
+    background-color: #252525;
+}
+.firstsec{
+    width: 35%;
+    margin-top: 40px;
+    padding-left: 25px;
+    float: left;
+    
+}
+.secondsec{
+    width: 20%;
+    margin-top: 40px;
+    padding-left: 25px;
+    float: left;
+    
+}
+.thirdsec{
+    width: 20%;
+    margin-top: 40px;
+    padding-left: 25px;
+    display:inline-block;
+}
+.fourthsec{
+    width: 20%;
+    margin-top: 40px;
+    padding:0 25px;
+    float: right;
+}
+.form-control::-webkit-input-placeholder {
+    color: #fff2ef;
+  }

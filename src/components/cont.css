@@ -1,0 +1,49 @@
+.catg{
+    color: white;
+    font-size: 15px;
+    margin-right: 20px;
+    padding-top: 30px;
+    
+   text-decoration: none;
+}
+.catg:hover{
+    text-decoration: underline;
+}
+.logoaesop{
+    color: white;
+    text-align: left;
+    margin-top: 135px;
+    font-size: 38px;
+    margin-left: 45px;
+    font-family: Shiporri Mincho ;
+    width: 200px;
+
+}
+.conttext{
+    width: 650px;
+    margin-top: 135px;
+    color: white;
+    margin-left: 110px;
+    font-size: 30px;
+    text-align: left;
+}
+
+.ltext{
+    width: 580px;    
+    color: white;
+    margin-left: 110px;
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.sticky{
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    bottom: 40px;
+    background-color:black;
+    border-radius: 30px;
+    right: 25px;
+    top:75%;
+    z-index: 100;
+}
